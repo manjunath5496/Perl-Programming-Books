@@ -22,5 +22,24 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(15).pdf" style="text-decoration:none;">Programming Perl</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(16).pdf" style="text-decoration:none;">Perl for Beginners</a></b></li> 
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(17).pdf" style="text-decoration:none;">Perl & LWP</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(18).pdf" style="text-decoration:none;">CGI Programming with Perl</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(19).pdf" style="text-decoration:none;">Advanced Perl Programming</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(20).pdf" style="text-decoration:none;">Writing Apache Modules with Perl and C</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(21).pdf" style="text-decoration:none;">Minimal Perl For UNIX and Linux People</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Perl-Programming-Books/blob/master/perl(22).pdf" style="text-decoration:none;">Perl for Beginners</a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  </ul>
